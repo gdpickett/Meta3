@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { useMoralis } from 'react-moralis';
-import Login from '../components/login';
+import Login from '../components/Login';
 
 
 export default function Home() {
